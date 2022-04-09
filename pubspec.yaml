@@ -1,7 +1,8 @@
-name: dart_app
-description: A sample command-line application.
+name: dart_lang_sample_application_1
+description: An application that uses a Git-hosted dependency
 version: 1.0.0
-# homepage: https://www.example.com
+homepage: https://github.com/easoncxz/dart-lang-sample-application-1
+
 
 environment:
   sdk: '>=2.16.2 <3.0.0'
